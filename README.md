@@ -18,8 +18,12 @@ install ::
 author :duxingkei chow
 email :277563381@qq.com
 
+Additional info:
 
-
+if running into:
+pyA20/gpio/gpio.c:25:20: fatal error: Python.h: No such file or directory
+try:
+sudo apt-get install python-dev
 
 
 
